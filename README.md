@@ -46,3 +46,9 @@ Use the following questions to explore the database, and find the answers, so yo
 - What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
     - Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.
+
+The deliverables for this Challenge are as follows:
+
+Deliverable 1: A Jupyter notebook containing code that imports the data and sets up and updates the uk_food database.
+
+Deliverable 2: A Jupyter notebook containing code that performs the exploratory analysis queries in the database.
